@@ -76,5 +76,6 @@
     }, false);
 
     document.getElementById('generate-playlists').addEventListener('click', generate_playlists);
+    document.getElementById('unfollow-playlists').addEventListener('click', unfollow_all_playlists);
   }
 })();
